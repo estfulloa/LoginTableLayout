@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginTableLayout</string>
+    <string name="txt_titulo">Autentifiacion</string>
+    <string name="txt_usuario">Usuario</string>
+    <string name="usuario">usuario</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_boton">Entrar</string>
+</resources>
